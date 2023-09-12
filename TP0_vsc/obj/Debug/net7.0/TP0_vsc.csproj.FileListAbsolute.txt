@@ -1,0 +1,15 @@
+/home/scanos/Documents/UNLaM/01DEV.LU18/TP0_vsc/bin/Debug/net7.0/TP0_vsc
+/home/scanos/Documents/UNLaM/01DEV.LU18/TP0_vsc/bin/Debug/net7.0/TP0_vsc.deps.json
+/home/scanos/Documents/UNLaM/01DEV.LU18/TP0_vsc/bin/Debug/net7.0/TP0_vsc.runtimeconfig.json
+/home/scanos/Documents/UNLaM/01DEV.LU18/TP0_vsc/bin/Debug/net7.0/TP0_vsc.dll
+/home/scanos/Documents/UNLaM/01DEV.LU18/TP0_vsc/bin/Debug/net7.0/TP0_vsc.pdb
+/home/scanos/Documents/UNLaM/01DEV.LU18/TP0_vsc/obj/Debug/net7.0/TP0_vsc.csproj.AssemblyReference.cache
+/home/scanos/Documents/UNLaM/01DEV.LU18/TP0_vsc/obj/Debug/net7.0/TP0_vsc.GeneratedMSBuildEditorConfig.editorconfig
+/home/scanos/Documents/UNLaM/01DEV.LU18/TP0_vsc/obj/Debug/net7.0/TP0_vsc.AssemblyInfoInputs.cache
+/home/scanos/Documents/UNLaM/01DEV.LU18/TP0_vsc/obj/Debug/net7.0/TP0_vsc.AssemblyInfo.cs
+/home/scanos/Documents/UNLaM/01DEV.LU18/TP0_vsc/obj/Debug/net7.0/TP0_vsc.csproj.CoreCompileInputs.cache
+/home/scanos/Documents/UNLaM/01DEV.LU18/TP0_vsc/obj/Debug/net7.0/TP0_vsc.dll
+/home/scanos/Documents/UNLaM/01DEV.LU18/TP0_vsc/obj/Debug/net7.0/refint/TP0_vsc.dll
+/home/scanos/Documents/UNLaM/01DEV.LU18/TP0_vsc/obj/Debug/net7.0/TP0_vsc.pdb
+/home/scanos/Documents/UNLaM/01DEV.LU18/TP0_vsc/obj/Debug/net7.0/TP0_vsc.genruntimeconfig.cache
+/home/scanos/Documents/UNLaM/01DEV.LU18/TP0_vsc/obj/Debug/net7.0/ref/TP0_vsc.dll
